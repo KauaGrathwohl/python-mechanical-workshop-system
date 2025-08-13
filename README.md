@@ -1,14 +1,18 @@
-# Sistema_Oficina_Mecanica_2022
+Mechanical Workshop System 2022
+This is a simple project developed for a college programming assignment. The goal was to create a system for a mechanical workshop, focusing on the following topics:
 
-Projeto simples feito para um trabalho da faculdade na matéria de Programação, com intuito de criar um sistema para uma oficina mecânica, tem por objetivo fazer os seguintes tópicos: 
+The user should have access to a main menu with the following options:
 
-O usuário deverá ter acesso a um menu principal com as seguintes opções:
-1 - Cadastrar Manutenção. 
-2 - Alterar Manutenção.
-3 - Realizar Manutenção.
-4 – Finalizar Manutenção.
-5 - Relatórios. 
-6 – Sair.
+1 - Register Maintenance
 
-Foi feito basicamente com funções simples a fim de praticar a manipulação de listas dentro da linguagem Python.
+2 - Alter Maintenance
 
+3 - Perform Maintenance
+
+4 - Finalize Maintenance
+
+5 - Reports
+
+6 - Exit
+
+The system was built using simple functions to practice manipulating lists within the Python language.
